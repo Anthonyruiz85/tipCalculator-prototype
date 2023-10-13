@@ -1,0 +1,10 @@
+1. Begin
+2. create Scanner userInput to read user input
+3. Display "Enter Amount Paid"
+4. reads and stores user input into variable named amountPaid
+5. Display "Enter the percentage you wish to tip Example 10"
+6 reads and stores user input into variable named tipAmount
+7. Calculate tipAmount with formula tipAmount = tipRate * amountPaid/100 also calculates totalAmount with formula totalAmount = tipAmount +amountPaid
+8. Display "you paid: " + amountPaid + " and wish to tip:" tipRate + " percent"
+9. Display "which equals:  "+ tipamount + " so you total will come out to" totalAmount
+10. End
